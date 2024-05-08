@@ -2,7 +2,7 @@
 Final Project 0.0!
 
 # backend:
-> $ pip install django
+> $ pip install django \n
 > $ pip install djangorestframework
 > $ pip install pygments
 > $ pip install mysqlclient
